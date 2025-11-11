@@ -1,7 +1,9 @@
 command: [
+  "uv",
+  "run",
   "streamlit", 
   "run",
-  "app.py"
+  "./streamlit-data-app/app.py"
 ]
 
 env:
