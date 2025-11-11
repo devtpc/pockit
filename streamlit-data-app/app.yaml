@@ -3,7 +3,7 @@ command: [
   "run",
   "streamlit", 
   "run",
-  "./streamlit-data-app/app.py"
+  "app.py"
 ]
 
 env:
