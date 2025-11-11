@@ -3,8 +3,8 @@ bundle:
 
 resources:
   apps:
-    pockit_app:
-      name: 'pockit'
+    pockit_app2:
+      name: 'pockit2'
       description: "The user interface to the Pockit personal finance tracker app."
       source_code_path: ./streamlit-data-app
 
